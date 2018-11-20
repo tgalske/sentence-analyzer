@@ -43,6 +43,11 @@ public class SentenceAnalyzer {
    * If an error is found, the error message is set and no further checks are run
    */
   boolean isValid() {
+    // check for empty string
+    if (this.sentence.length() == 0) {
+      return false;
+    }
+    
     if (!startsWithCapital()) {
       this.errorMessage = this.ERROR_STARTS_CAPITAL;
       return false;
