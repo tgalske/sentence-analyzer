@@ -1,0 +1,16 @@
+The quick brown fox said “hello Mr lazy dog”.
+The quick brown fox said hello Mr lazy dog.
+One lazy dog is too few, 13 is too many.
+One lazy dog is too few, thirteen is too many.
+The quick brown fox said "hello Mr. lazy dog".
+the quick brown fox said “hello Mr lazy dog".
+"The quick brown fox said “hello Mr lazy dog."
+One lazy dog is too few, 12 is too many.
+Countdown 15 14 13 12 11, 10.
+Alpha - testing capital letter range.
+Zulu - testing capital letter range.
+This "sentence has" " si"x" "quotations.
+This sentence" has " five " " quotations".
+How . about . multiple. periods.
+Let's try no period
+Testing non-period at end!
